@@ -1,3 +1,2 @@
-# Applied-Data-Science-Capstone
-Applied Data Science Capstone
-It is a markdown file in this repository
+# Project: Applied Data Science Capstone
+
